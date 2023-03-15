@@ -13,6 +13,7 @@ public class DemoGitApplication {
         System.out.println("git-demo04");
         System.out.println("git-demo05");
         System.out.println("master update");
+        System.out.println("mayun update");
         SpringApplication.run(DemoGitApplication.class, args);
     }
 
