@@ -8,6 +8,9 @@ public class DemoGitApplication {
 
     public static void main(String[] args) {
         System.out.println("git-demo01");
+        System.out.println("git-demo02");
+        System.out.println("git-demo03");
+        System.out.println("git-demo04");
         SpringApplication.run(DemoGitApplication.class, args);
     }
 
