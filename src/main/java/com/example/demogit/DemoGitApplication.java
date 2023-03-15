@@ -11,6 +11,7 @@ public class DemoGitApplication {
         System.out.println("git-demo02");
         System.out.println("git-demo03");
         System.out.println("git-demo04");
+        System.out.println("git-demo05");
         SpringApplication.run(DemoGitApplication.class, args);
     }
 
